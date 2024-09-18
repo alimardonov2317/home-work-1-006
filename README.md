@@ -1,0 +1,1 @@
+Ushbu loyihada form va cardlar html va css yordamida yozilgan.
